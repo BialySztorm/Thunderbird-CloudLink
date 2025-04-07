@@ -15,10 +15,10 @@ Thunderbird add-on/MailExtension to easily insert file links from OneDrive and G
 
 This add-on is not affiliated with Microsoft, Google, or any other service provider.
 
-[//]: # (## Download)
+## Download
 
-[//]: # ()
-[//]: # (* [Addons.thunderbird.net]&#40;https://addons.thunderbird.net/thunderbird/addon/onedrive-link-provider/&#41; &#40;ATN&#41;)
+
+* [Addons.thunderbird.net](https://addons.thunderbird.net/pl/thunderbird/addon/thunderbird-cloudlink/) (ATN)
 
 ## Install from source
 
