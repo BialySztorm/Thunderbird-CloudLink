@@ -6,18 +6,19 @@
 </head>
 <body>
 <div class="form">
-    <label>Link do pliku:</label>
+    <label id="linkLabel"></label>
     <input type="url" id="link" required placeholder="https://onedrive.live.com/..." />
 
-    <label>Hasło (opcjonalne):</label>
-    <input type="text" id="password" placeholder="np. 1234" />
+    <label id="passwordLabel"></label>
+    <input type="text" id="password" placeholder="12345678" />
 
-    <label>Data wygaśnięcia (opcjonalnie):</label>
+    <label id="expiryLabel"></label>
     <input type="date" id="expiry" />
 
-    <button id="insertBtn">Wstaw do maila</button>
+    <button id="insertBtn"></button>
 </div>
 
+<script src="i18n.js"></script>
 <script src="compose_action.js"></script>
 </body>
 </html>

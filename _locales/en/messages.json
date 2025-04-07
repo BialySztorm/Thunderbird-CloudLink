@@ -1,0 +1,23 @@
+{
+  "file": {
+    "message": "File"
+  },
+  "password": {
+    "message": "Password"
+  },
+  "expiry": {
+    "message": "Expiry"
+  },
+  "linkLabel": {
+    "message": "File link"
+  },
+  "passwordLabel": {
+    "message": "Password (optional)"
+  },
+  "expiryLabel": {
+    "message": "Expiry date (optional)"
+  },
+  "insertButton": {
+    "message": "Insert link"
+  }
+}

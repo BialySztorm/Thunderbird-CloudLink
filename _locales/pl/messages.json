@@ -1,0 +1,23 @@
+{
+  "file": {
+    "message": "Plik"
+  },
+  "password": {
+    "message": "Hasło"
+  },
+  "expiry": {
+    "message": "Ważność"
+  },
+  "linkLabel": {
+    "message": "Link do pliku"
+  },
+  "passwordLabel": {
+    "message": "Hasło (opcjonalnie)"
+  },
+  "expiryLabel": {
+    "message": "Data ważności (opcjonalnie)"
+  },
+  "insertButton": {
+    "message": "Wstaw link"
+  }
+}
