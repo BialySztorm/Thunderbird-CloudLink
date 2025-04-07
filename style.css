@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 10px;
+    width: 300px;
+}
+
+.form label {
+    margin-top: 10px;
+    display: block;
+}
+.form input {
+    width: 100%;
+    padding: 6px;
+    margin-top: 4px;
+    margin-bottom: 10px;
+}
+#insertBtn {
+    width: 100%;
+    padding: 8px;
+    background-color: #0078D4;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+#insertBtn:hover {
+    background-color: #005ea2;
+}
+
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: #1e1e1e;
+        color: #e0e0e0;
+    }
+
+    .form input{
+        background-color: #1e1e1e;
+        color: #e0e0e0;
+    }
+}

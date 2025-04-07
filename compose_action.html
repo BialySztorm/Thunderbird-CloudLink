@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+<div class="form">
+    <label>Link do pliku:</label>
+    <input type="url" id="link" required placeholder="https://onedrive.live.com/..." />
+
+    <label>Hasło (opcjonalne):</label>
+    <input type="text" id="password" placeholder="np. 1234" />
+
+    <label>Data wygaśnięcia (opcjonalnie):</label>
+    <input type="date" id="expiry" />
+
+    <button id="insertBtn">Wstaw do maila</button>
+</div>
+
+<script src="compose_action.js"></script>
+</body>
+</html>

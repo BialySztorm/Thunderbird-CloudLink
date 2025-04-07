@@ -1,0 +1,20 @@
+{
+  "manifest_version": 2,
+  "name": "OneDrive Inserter",
+  "version": "1.0",
+  "description": "Wstawianie linku OneDrive do maila z opcjonalnym hasłem i datą.",
+  "applications": {
+    "gecko": {
+      "id": "onedrive-inserter@manderla.dev",
+      "strict_min_version": "91.0"
+    }
+  },
+  "permissions": ["compose"],
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "compose_action": {
+    "default_popup": "compose_action.html",
+    "default_title": "Wstaw link OneDrive"
+  }
+}
