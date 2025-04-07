@@ -1,4 +1,7 @@
 {
+  "missingLink": {
+    "message": "Please write a link to insert."
+  },
   "file": {
     "message": "File"
   },

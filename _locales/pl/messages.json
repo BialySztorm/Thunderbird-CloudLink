@@ -1,4 +1,7 @@
 {
+  "missingLink": {
+    "message": "Proszę wpisać link do wstawienia."
+  },
   "file": {
     "message": "Plik"
   },

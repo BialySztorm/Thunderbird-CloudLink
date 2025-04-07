@@ -4,7 +4,7 @@ document.getElementById("insertBtn").addEventListener("click", async () => {
     const expiry = document.getElementById("expiry").value;
 
     if (!link) {
-        alert("Podaj link do pliku OneDrive!");
+        alert(browser.i18n.getMessage("missingLink"));
         return;
     }
 
