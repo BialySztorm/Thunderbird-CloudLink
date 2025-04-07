@@ -5,7 +5,7 @@ Copyright © 2025 Andrzej Manderla
 
 <img src="icons/icon.svg" width="128">
 
-Thunderbird add-on/MailExtension to easily insert file links from OneDrive and Google Drive into emails using the [CloudFile/FileLink API](https://thunderbird-webextensions.readthedocs.io/en/latest/cloudFile.html).
+Thunderbird add-on/MailExtension to easily insert file links into emails.
 
 * Enables simple file sharing by inserting links
 * Optionally protect each file with a password
